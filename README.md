@@ -74,7 +74,7 @@ This formulation directly rewards SOC progress and penalizes instability, heat, 
 
 The figure below shows the final evaluation of the trained controller.
 
-![Charging Results](./results.png)
+![Charging Results](./plots/Figure_6.png)
 
 ### Observations
 
